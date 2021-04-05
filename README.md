@@ -8,6 +8,10 @@
 
 Nesse desafio foi desenvolvido uma aplicação GoMarketplace. O intuito do projeto é aprender os conceitos como contextApi, uso de hooks, typescript com react native etc.
 
+<p>
+  <img src="https://user-images.githubusercontent.com/32397288/92134521-ff018100-eddf-11ea-9d01-2e138d5c5b2d.jpeg" width="200"> | <img src="https://user-images.githubusercontent.com/32397288/113601821-38b99500-9618-11eb-81f3-57b87d987e59.jpeg" width="200"> 
+<p>
+
 ### Utilizando uma fake API
 
 Nesse projeto vamos consumir uma api fake, o **json-server.**
