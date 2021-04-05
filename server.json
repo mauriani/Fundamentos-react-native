@@ -2,27 +2,39 @@
   "products": [
     {
       "id": "123",
-      "title": "Nome do produto 01",
-      "image_url": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/camiseta-ecommerce.jpg",
-      "price": 50
+      "title": "Cadeira Gamer reclinável Strike Healer TM Verde/Preto - Travel Max",
+      "image_url": "https://a-static.mlcdn.com.br/618x463/cadeira-gamer-reclinavel-strike-healer-tm-verde-preto-travel-max/devintex/20119/23261a92cf79358ce01272f3f3e62aa7.jpg",
+      "price": 889.9
     },
     {
       "id": "1234",
-      "title": "Nome do produto 02",
-      "image_url": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/camiseta-ecommerce.jpg",
-      "price": 60
+      "title": "Cadeira Gamer Motospeed G1- ROSA",
+      "image_url": "https://images.tcdn.com.br/img/img_prod/785242/cadeira_gamer_motospeed_g1_rosa_5275_1_20201116104417.png",
+      "price": 1694.34
     },
     {
       "id": "12345",
-      "title": "Nome do produto 03",
-      "image_url": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/camiseta-ecommerce.jpg",
-      "price": 70
+      "title": "Cadeira Gamer PCTOP Roxa - PC6022",
+      "image_url": "https://images2.kabum.com.br/produtos/fotos/133142/cadeira-gamer-pctop-roxa-pc6022_1611349263_gg.jpg",
+      "price": 959.9
     },
     {
       "id": "123456",
-      "title": "Nome do produto 04",
-      "image_url": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/camiseta-ecommerce.jpg",
-      "price": 80
+      "title": "Cadeira Gamer Travel Max Reclinável - Preta e Vermelha Sports",
+      "image_url": "https://a-static.mlcdn.com.br/618x463/cadeira-gamer-travel-max-reclinavel-preta-e-vermelha-sports/magazineluiza/122801900/1ea8c39f76792ce782f48d7eaff46632.jpg",
+      "price": 854.91
+    },
+    {
+      "id": "123457",
+      "title": "Cadeira Gamer Mymax Mx1 Giratória Preto/Branco",
+      "image_url": "https://images-americanas.b2w.io/produtos/01/00/item/133880/9/133880945_1GG.jpg",
+      "price": 664.05
+    },
+    {
+      "id": "123458",
+      "title": "Cadeira Gamer Mymax Mx1 Giratória Preto/Branco",
+      "image_url": "https://images-americanas.b2w.io/produtos/01/00/img7/01/00/item/133776/0/133776030_1GG.jpg",
+      "price": 799.99
     }
   ]
 }

@@ -41,6 +41,7 @@ export const ProductImage = styled.Image`
 export const ProductTitleContainer = styled.View`
   font-size: 16px;
   margin-left: 5px;
+  flex-shrink: 1;
 `;
 
 export const ProductTitle = styled.Text`
