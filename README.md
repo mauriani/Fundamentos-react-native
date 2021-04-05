@@ -8,8 +8,8 @@
 
 Nesse desafio foi desenvolvido uma aplicação GoMarketplace. O intuito do projeto é aprender os conceitos como contextApi, uso de hooks, typescript com react native etc.
 
-<p>
-  <img src="(https://user-images.githubusercontent.com/32397288/113601820-37886800-9618-11eb-95e7-0ae2753e3217.jpeg" width="200"> | 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/32397288/113601820-37886800-9618-11eb-95e7-0ae2753e3217.jpeg" width="200"> | 
   <img src="https://user-images.githubusercontent.com/32397288/113601821-38b99500-9618-11eb-81f3-57b87d987e59.jpeg" width="200"> 
 <p>
 
